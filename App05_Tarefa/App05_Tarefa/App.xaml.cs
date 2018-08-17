@@ -11,7 +11,7 @@ namespace App05_Tarefa
 		{
 			InitializeComponent();
 
-			MainPage = new MainPage();
+			MainPage = new NavigationPage(new Telas.Inicio());
 		}
 
 		protected override void OnStart ()
