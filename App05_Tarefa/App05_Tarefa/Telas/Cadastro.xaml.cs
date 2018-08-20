@@ -56,7 +56,6 @@ namespace App05_Tarefa.Telas
             {
                 Tarefa tarefa = new Tarefa();
                 tarefa.Nome = txtNome.Text.Trim();
-                tarefa.DataFinalizacao = DateTime.Now;
                 tarefa.Prioridade = Prioridade;
 
                 new GerenciadorTarefa().Salvar(tarefa);
