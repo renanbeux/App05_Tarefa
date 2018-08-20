@@ -157,18 +157,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\3.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <BundleResource Include="Resources\4.png" />
-  </ItemGroup>
-  <ItemGroup>
     <BundleResource Include="Resources\AddBotao.png" />
   </ItemGroup>
   <ItemGroup>
@@ -179,5 +167,17 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\p1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\p2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\p3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\p4.png" />
   </ItemGroup>
 </Project>
